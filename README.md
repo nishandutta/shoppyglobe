@@ -19,6 +19,7 @@ ShoppyGlobe is a simple yet complete e-commerce web application built with React
 🎨 Responsive UI with pure CSS
 
 🧱 Project Structure
+```
 shoppyglobe/
 ├── public/
 ├── src/
@@ -30,7 +31,7 @@ shoppyglobe/
 │   ├── main.jsx          # React root entry
 ├── README.md
 ├── package.json
-
+```
 📦 Installation
 1.Clone the repository:
 ```
