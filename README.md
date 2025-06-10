@@ -33,17 +33,20 @@ shoppyglobe/
 
 📦 Installation
 1.Clone the repository:
+```
 git clone https://github.com/nishandutta/shoppyglobe.git
 cd shoppyglobe
-
+```
 2.Install dependencies:
+```
 npm install
 npm install react-router-dom
 npm install @reduxjs/toolkit react-redux
-
+```
 3.Start the development server:
+```
 npm run dev
-
+```
 4.Open your browser and go to:
 👉 http://localhost:5173/
 
