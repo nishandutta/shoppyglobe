@@ -26,12 +26,11 @@ ShoppyGlobe is a simple yet complete e-commerce web application built with React
 shoppyglobe/
 ├── public/
 ├── src/
-│   ├── components/       # Reusable UI components (e.g., Header, ProductItem, CartItem)
-│   ├── pages/            # Page-level components (Home, Cart, Checkout, ProductDetail, etc.)
-│   ├── redux/            # Redux slice (cartSlice.js) and store configuration
-│   ├── hooks/            # Custom hooks (e.g., useFetchProducts, useFetchProductDetail)
-│   ├── App.jsx           # Main app layout and routes
-│   ├── main.jsx          # React root entry
+│   ├── components/       
+│   ├── redux/           
+│   ├── hooks/           
+│   ├── App.jsx           
+│   ├── main.jsx          
 ├── README.md
 ├── package.json
 ```
