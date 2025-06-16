@@ -18,6 +18,9 @@ ShoppyGlobe is a simple yet complete e-commerce web application built with React
 
 🎨 Responsive UI with pure CSS
 
+🌐 Live Demo  
+👉 Visit [ShoppyGlobe](https://shoppyglobe-cyan.vercel.app/)
+
 🧱 Project Structure
 ```
 shoppyglobe/
@@ -32,25 +35,6 @@ shoppyglobe/
 ├── README.md
 ├── package.json
 ```
-📦 Installation
-1.Clone the repository:
-```
-git clone https://github.com/nishandutta/shoppyglobe.git
-cd shoppyglobe
-```
-2.Install dependencies:
-```
-npm install
-npm install react-router-dom
-npm install @reduxjs/toolkit react-redux
-```
-3.Start the development server:
-```
-npm run dev
-```
-4.Open your browser and go to:
-👉 http://localhost:5173/
-
 🔧 Technologies Used
 React
 Redux Toolkit
@@ -76,6 +60,25 @@ Store cart data in cloud server
 Filter products by category
 
 Add real payment integration
+
+📦 Installation
+1.Clone the repository:
+```
+git clone https://github.com/nishandutta/shoppyglobe.git
+cd shoppyglobe
+```
+2.Install dependencies:
+```
+npm install
+npm install react-router-dom
+npm install @reduxjs/toolkit react-redux
+```
+3.Start the development server:
+```
+npm run dev
+```
+4.Open your browser and go to:
+👉 http://localhost:5173/
 
 
 
